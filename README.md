@@ -1,3 +1,16 @@
+
+link: https://chatter-fe.netlify.app/
+
+dummy users:-
+
+username:goldberg password:1234
+
+username:superman password:1234
+
+![uuuuupp](https://user-images.githubusercontent.com/57584616/132999411-2e87013b-93d5-473d-a63a-350478409766.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
